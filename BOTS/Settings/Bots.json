@@ -1,0 +1,17 @@
+{
+  "Controller":"ODYzNjc2NDEzMzk0NDE5NzMy.YOqXVw.Pe2PPyNIaec5TPCTtAesTB4G0hc",
+  "Database":"ODYzNDE1Nzk0NDQ4NzI4MDY0.YOmkng.TGILtKvlQHlNnUhKtNfgJ07rzKk",
+  "Guard1":"ODYzNDE0NDcyNDk5OTIwOTA2.YOmjYw.v2Zw5w1hh0lDL-JRfgQw-3PWoQE",
+  "Guard2":"ODYzNDE0NTI4OTk2NjcxNDg4.YOmjcQ.dbio9leJLogk4cT-hSzhYT752O0",
+  "Guard3":"ODYzNDE0NjIwNzkwNTg3Mzky.YOmjhw.LCL_Pq2YNmhMZVrXXCBv9zNrxJg",
+  "Voucher":"ODYzNjc2NjM3MzYyOTEzMjgy.YOqXjA.QIrNaDmz-KDTnqrHLugSjYiat80",
+  "Moderation":"ODYzNDE2NDIwMTMyODQ3NjI3.YOmlNA.BTI1n5eHplnrX8p7HrKrg6CjFx4",
+  "Stat":"ODYzNDE2MDg1MjIzMzA5MzMy.YOmk5A.081g32KVt0S-g-RXWZZlvs2xYLY",
+  "ChatGuard":"ODY0MTg2Mjc5MDc1MzgxMjQ4.YOxyMA.YUiWQl-YVD1Q-siTCDk3Sy3s1qU",
+  
+  "Mongo_URL":"mongodb+srv://Lucretius:kayaalper2008@cluster0.agvc7.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "GuildID":"863681026763915264",
+  "Bot_Type":"Idiot this is weka",
+  "Bot_Status":"dnd",
+  "Bot_Voice_Channel":"863683171450093569"
+}

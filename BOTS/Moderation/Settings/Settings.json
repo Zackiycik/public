@@ -1,0 +1,108 @@
+{
+    "BotSettings": {
+        "token": "ODYzNDE2MDg1MjIzMzA5MzMy.YOmk5A.081g32KVt0S-g-RXWZZlvs2xYLY",
+        "owner": "607925451364499477",
+        "prefix": ".",
+        "botStatus": "Woney ❤️ Vallens",
+        "botVoiceChannelID": "861524625024614411",
+        "Footer": "Woney ❤️ Vallens" 
+      },
+
+    "Button":{
+            "etkinlikRol":"861524558774403082",
+            "cekilisRol":"861524557943668746",
+            "BotSahip":"607925451364499477"
+       },
+
+
+    "Register":{
+           "Owner":"861524528689446942",
+           "CCO":["861524523362287627"],
+           "RegisterHammer":"861524543427444756",
+
+
+           "Manroles":"861524550062964767",
+           "OtherManroles":"861524550062964767",
+           "Womenroles":"861524549278367754",
+           "OtherWomenroles":"861524549278367754",
+           "unregister":"861524553218129930",
+           "supheli":"861524556605816883",
+
+
+           "registerChannel":"861524610452422687",
+           "rules":"860100182645800970",
+
+           
+           "supheliName":"• Şüpheli Hesap",
+           "Tag":"Woney",
+           "unTag":"Woney"
+       },
+
+    "punishment":{
+         "BanLog":"861625206149480468",
+         "JailLog":"861625162540777472",
+         "MuteLog":"861625176180129812",
+         "VmuteLog":"861625190089228288",
+         "YetkiAsma":"861636513015660564",
+         "CezapuanLog":"861625411326836766",
+
+
+         "BanHammer":"861524539677736961",
+         "JailHammer":"861524541422698506",
+         "MuteHammer":"860100152077189121",
+         "VmuteHammer":"860100152077189121",
+
+
+         "BoosterRole":"861516611935928334",
+         "Cezali":"861524554778279957",
+         "Muted":"861524555759747082",
+         "VMuted":"861593994081337344"
+       },
+
+    "yasaklıtag": {
+        "Owner":"857684540771139625",
+        "yasaklıtagRol":"857684575954010162",
+        "yasaklıtagLog":"857684594652479498",
+        "yasaklıtagName":"• Yasaklı Tag",
+        "unregister":"857684571344470076",
+        "serverID":"852973702483804181"
+    },
+
+
+    "TagWorks":{
+        "botCommands":"857684564155039764",
+        "unregistery":"857684571344470076",
+        "Tag":"Woney",
+        "Etiket":"1909",
+        "serverID":"852973702483804181",
+        "Tagges":"857684567208099861",
+        "TagLog":"859016289221214218"
+    },
+
+
+    "Logs":{
+        "seslog":"861553624094474240",
+        "mesassagelog":"861553642389504020"
+    }, 
+
+
+    "RoleSync":{
+        "RoleSyncToken":"ODQ1OTk5MjQ5OTc5OTk4MjA5.YKpIMw.wTZawsImLfk4YNmfHaW-_Vf7cS4",
+        "GuildID":"852973702483804181",
+        "BotVoice":"861524625024614411",
+        "Type":"Woney ❤️ Vallens"
+    },
+
+
+    "OtherWorks":{
+    "Tag":"Woney",
+    "Etiket":"1909",
+    "Booster":"861516611935928334",
+    "Vallens":"607925451364499477",
+    "Katıldı":"",
+    "EnAltyt":"",
+    "VipRole":"",
+    "ToplantıChannel":"",
+    "transporthammer":""
+    }
+}

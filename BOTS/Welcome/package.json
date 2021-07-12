@@ -1,0 +1,14 @@
+{
+    "name": "vallens-welcome-bot",
+    "description": "Discord.js welcome botu",
+    "author": {
+        "name": "Vallens"
+    },
+    "private": true,
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "ffmpeg-static": "4.2.7",
+        "moment": "^2.29.1",
+        "opusscript": "0.0.7"
+    }
+}
