@@ -1,2 +1,1 @@
-# public
-publicmublic
+# YARRAAAAAA SEN DOSYA EDİTLEYEBİLİYON MU?

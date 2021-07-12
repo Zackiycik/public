@@ -1,0 +1,409 @@
+{
+  "backupdurum": "false",
+  "guarddurum": "false",
+  "whitelist": [
+    {
+      "güvenli": "852600880423501824"
+    },
+    {
+      "güvenli": "863410600100233233"
+    },
+    {
+      "güvenli": "852917420678316072"
+    },
+    {
+      "güvenli": "863414472499920906"
+    }
+  ],
+  
+  "rols": [
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544521933914133",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544798216257557",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544350252007445",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544521933914133",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544798216257557",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544350252007445",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544521933914133",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544798216257557",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544350252007445",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544521933914133",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544798216257557",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544350252007445",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544521933914133",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544798216257557",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544350252007445",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544521933914133",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544798216257557",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861544350252007445",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "863306915223699456",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "861530980045422592",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862663775059836939",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "862665022558830623",
+      "rolPermission": 267462535
+    },
+    {
+      "rolid": "862677206908141609",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677286355992578",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "862677398914465824",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "863410600092631089",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "863410600100233236",
+      "rolPermission": 36768776
+    },
+    {
+      "rolid": "863410600092631089",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "863410600100233236",
+      "rolPermission": 36768776
+    },
+    {
+      "rolid": "863410600092631089",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "863410600092631089",
+      "rolPermission": 8
+    }
+  ]
+}
