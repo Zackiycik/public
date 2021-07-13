@@ -185,3 +185,14 @@ client.on("message", async message => {
         if (message.deletable) message.delete({ timeout: 5000 }).catch(console.error);
     }
 });
+
+
+client.on('message', async message => {
+    if(message.author.bot) return;
+    if(message.member.hasPermission("ADMINISTRATOR")) return;
+    if(message.content.length > "500") {
+      if(message.deletable)  message.delete({timeout: 0050}).catch(console.error) 
+      return message.channel.send(`${message.member}, Lütfen mesajınızı 500 karakterden az yazınız`).then(a => a.delete({timeout: 5000}))
+    }
+});
+  
